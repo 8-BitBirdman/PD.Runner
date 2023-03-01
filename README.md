@@ -1,6 +1,6 @@
 # 
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKl0ibA8S5ypPck_OeVzoO-TeLQdei-LAQymdntToxupUYBOapLvXAbMV8FjZJIKxxvuC8wARaCYGUmBu3auAwSK4zZW8euj7O9Scwz7jDJulPi3fnF4P6-tU1-kDE0ghkXZexlJ0ry0ZsxLVpCTd3kFu9PRQ2dcn6ykW3syDnhNrVVSa0Li-EVWu6/w640-h640/68747470733a2f2f6269742e6c792f33504238563835.png" width="200" height="200" />
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKl0ibA8S5ypPck_OeVzoO-TeLQdei-LAQymdntToxupUYBOapLvXAbMV8FjZJIKxxvuC8wARaCYGUmBu3auAwSK4zZW8euj7O9Scwz7jDJulPi3fnF4P6-tU1-kDE0ghkXZexlJ0ry0ZsxLVpCTd3kFu9PRQ2dcn6ykW3syDnhNrVVSa0Li-EVWu6/w640-h640/68747470733a2f2f6269742e6c792f33504238563835.png" width="200" height="200" href="https://pdrunner.blogspot.com/"/>
 </p>
 <h1 align="center">PD Runner</h1>
 <h3 align="center">PD Runner is an unlimited trial launcher<br>to run Parallels Desktop on your macOS<br>Only for learning and research usage</h3> 
