@@ -34,3 +34,7 @@ PD Runner will show an icon in the menu bar. Click menubar icon to list all the 
 - If the system say "**「com.lihaoyun6.pd-runner-helper」 will damage your computer.**"  
 > This is caused by the expiration of the temporary developer certificate I used. Use the "Uninstall-Helper" app included in the release to remove the residual items of the old version, and then reopen PD runner normally.  
 > 
+
+## 📞 Contacts
+For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
+[Check Out My YouTube Channel](https://www.youtube.com/DopeSatan)
