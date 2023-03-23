@@ -9,6 +9,9 @@
 
 
 [🔴 ꜰᴏʀ ᴅɪsᴄᴜssɪᴏɴ ᴏʀ ɪssᴜᴇs ʀᴇɢᴀʀᴅɪɴɢ ᴘᴅ ʀᴜɴɴᴇʀ ᴊᴏɪɴ ᴍʏ ᴅɪsᴄᴏʀᴅ sᴇʀᴠᴇʀ 🔴](https://discord.gg/5gphUVBdmd)
+<h4 align="center">As you know the previous repository was taken down, this repo is temporary and may get<br>
+DMCA Strikes anytime. So, it would be better to communicate and stay connected<br>
+at Discord for future updates incase anything goes wrong again.</h4>
 </h3><br>
 
 ## 📲 Screenshot
