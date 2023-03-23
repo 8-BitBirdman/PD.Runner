@@ -8,7 +8,7 @@
 <img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200" height"auto"></a><br><br>
 
 
-[🔴 ꜰᴏʀ ᴅɪsᴄᴜssɪᴏɴ ᴏʀ ɪssᴜᴇs ʀᴇɢᴀʀᴅɪɴɢ ᴘᴅ ʀᴜɴɴᴇʀ ᴊᴏɪɴ ᴍʏ ᴅɪsᴄᴏʀᴅ sᴇʀᴠᴇʀ 🔴](https://discord.com/invite/uavTPkr)
+[🔴 ꜰᴏʀ ᴅɪsᴄᴜssɪᴏɴ ᴏʀ ɪssᴜᴇs ʀᴇɢᴀʀᴅɪɴɢ ᴘᴅ ʀᴜɴɴᴇʀ ᴊᴏɪɴ ᴍʏ ᴅɪsᴄᴏʀᴅ sᴇʀᴠᴇʀ 🔴](https://discord.gg/5gphUVBdmd)
 </h3><br>
 
 ## 📲 Screenshot
