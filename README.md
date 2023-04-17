@@ -8,7 +8,7 @@
 <img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200" height"auto"></a><br><br>
 
 
-[🔴 ꜰᴏʀ ᴅɪsᴄᴜssɪᴏɴ ᴏʀ ɪssᴜᴇs ʀᴇɢᴀʀᴅɪɴɢ ᴘᴅ ʀᴜɴɴᴇʀ ᴊᴏɪɴ ᴍʏ ᴅɪsᴄᴏʀᴅ sᴇʀᴠᴇʀ 🔴](https://discord.gg/bvzTHWnD3n)
+[🔴 ꜰᴏʀ ᴅɪsᴄᴜssɪᴏɴ ᴏʀ ɪssᴜᴇs ʀᴇɢᴀʀᴅɪɴɢ ᴘᴅ ʀᴜɴɴᴇʀ ᴊᴏɪɴ ᴍʏ ᴅɪsᴄᴏʀᴅ sᴇʀᴠᴇʀ 🔴](https://discord.gg/yHaHRCdMeR)
 <h4 align="center">As you know the previous repository was taken down, this repo is temporary and may get<br>
 DMCA Strikes anytime. So, it would be better to communicate and stay connected<br>
 at Discord for future updates incase anything goes wrong again.</h4>
