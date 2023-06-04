@@ -18,7 +18,11 @@ at Discord for future updates incase anything goes wrong again.</h4>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-rp9LtJP6eYXnwBtp0PpB7UqAs9z_cbgcPrudhdVLSNbLQWQYeE-gF0AwprJH96YRKQZS4pcbWY1RhIFWlfDRVBZtmayPsiYNOPSNA8rzVtem_1r-nIhVm95NxXFgOeiHKp85vZJrIcW6ulDOIS-0Fxahucmgj9Uvsl5wZ_l-2ZtkQACGryycGMGV/s16000/PD-Runner-01.png" width=100% align=center />  
 
 ## 🛠️ Usage Guide
-PD Runner will show an icon in the menu bar. Click menubar icon to list all the VMs on your Mac, then click on the vm you want to start. 
+- Download Parallels Desktop installer
+- Download the “PD Runner.zip” file below
+- Extract the zip file and get the “PD Runner.pkg”
+- Run the .pkg file and complete the installation process
+- Reinstalling PD is recommended if the above procedure fails
 
 ## ❓ Frequently Asked Questions
 **1. Why do I need to enter a password when first run?**  
