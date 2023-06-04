@@ -63,13 +63,9 @@ at Discord for future updates incase anything goes wrong again.</h4>
      sudo spctl --master-disable && xattr -cr /Applications/PD\ Runner.app
     
 
-[](https://github.com/utsanjan/PD-Runner#%EF%B8%8F-credits)✒️ Credits
----------------------------------------------------------------------
-
+## ✒️ Credits 
 [**Lihaoyun6**](https://github.com/lihaoyun6/) and [**MikeWang000000**](https://github.com/MikeWang000000/) originally made the PD Runner app for macOS. But the repository was taken down due to a DMCA takedown notice. Hence, the credits goes to them for creating this amazing application. You can read more about the DMCA takedown notice from [here](https://github.com/github/dmca/blob/master/2022/01/2022-01-19-parallels.md). And, also thanks to [**Somebasj**](https://github.com/somebasj/) for providing the patch files that solves the Virtual Machines frequently suspending issue.[ㅤ](https://icrack.day/pdfm)
 
-[](https://github.com/utsanjan/PD-Runner#-contacts)📞 Contacts
---------------------------------------------------------------
-
+## 📞 Contacts
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
 [Check Out My YouTube Channel](https://www.youtube.com/DopeSatan)
